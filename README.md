@@ -1,6 +1,7 @@
-### Hi there 👋
-
 [![Zelan's GitHub stats](https://github-readme-stats.vercel.app/api?username=zelan-eroz)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zelan-eroz&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **zelan-eroz/zelan-eroz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
